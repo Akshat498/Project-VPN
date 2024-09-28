@@ -2,3 +2,22 @@
 @tailwind components;
 @tailwind utilities;
 @import url(./output.css);
+
+
+
+
+.box-1{
+    margin: 0 20px;
+}
+
+.box-2{
+    margin: 0 20px;
+}
+
+.box-3{
+    margin: 0 20px;
+}
+
+.row{
+    margin: 0 -20px;
+}
